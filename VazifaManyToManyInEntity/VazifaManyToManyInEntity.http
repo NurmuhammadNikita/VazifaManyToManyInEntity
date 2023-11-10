@@ -1,0 +1,6 @@
+@VazifaManyToManyInEntity_HostAddress = http://localhost:5286
+
+GET {{VazifaManyToManyInEntity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
